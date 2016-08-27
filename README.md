@@ -1,5 +1,5 @@
 # TimeSpender
-My programm to count the time you're spending on something
+My programm will help you count the time you're spending on something
 
 This program is recording and couting your time spend. First of all you
 need to have MySql. I've to used xampp to start MySql every single time
